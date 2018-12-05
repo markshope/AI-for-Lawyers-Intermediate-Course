@@ -1,1 +1,2 @@
-# AI_for_Lawyers_Colab_Introduction
+# AI for Lawyers
+This file is used for the AI for Lawyers introductory class.
